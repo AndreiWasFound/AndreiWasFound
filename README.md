@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://www.spigotmc.org/resources/authors/andreisava4.890477/ or GitHub](https://www.spigotmc.org/resources/authors/andreisava4.890477/ or GitHub)
+- 👨‍💻 All of my projects are available at https://www.spigotmc.org/resources/authors/andreisava4.890477/ or this GitHub
 
 - 💬 Ask me about **Spigot API**
 
