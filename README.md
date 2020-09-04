@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreiwasfound" alt="andreiwasfound" /> </p>
 
-- 🔭 I’m currently working on [minecraft plugins](https://www.spigotmc.org/resources/authors/andreisava4.890477/)
+- 🔭 I’m currently working on **[minecraft plugins](https://www.spigotmc.org/resources/authors/andreisava4.890477/)**
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available on [Spigot](http://andreiwasfound.ddns.net/spigot) or this [GitHub](http://andreiwasfound.ddns.net/github)
+- 👨‍💻 All of my projects are available on **[Spigot](http://andreiwasfound.ddns.net/spigot)** or this **[GitHub](http://andreiwasfound.ddns.net/github)**
 
 - 💬 Ask me about **Spigot API**
 
