@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available on [spigot](http://andreiwasfound.ddns.net/spigot) or this [GitHub](http://andreiwasfound.ddns.net/github)
+- 👨‍💻 All of my projects are available on [Spigot](http://andreiwasfound.ddns.net/spigot) or this [GitHub](http://andreiwasfound.ddns.net/github)
 
 - 💬 Ask me about **Spigot API**
 
