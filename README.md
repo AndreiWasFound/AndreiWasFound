@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at https://www.spigotmc.org/resources/authors/andreisava4.890477/ or this GitHub
+- 👨‍💻 All of my projects are available on [spigot](http://andreiwasfound.ddns.net/spigot) or this [GitHub](http://andreiwasfound.ddns.net/github)
 
 - 💬 Ask me about **Spigot API**
 
-- 📫 How to reach me **https://linktr.ee/AndreiWasFound**
+- 📫 How to reach me **http://andreiwasfound.ddns.net/discord**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreiwasfound&show_icons=true" alt="andreiwasfound" /> </p>
 
