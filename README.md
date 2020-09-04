@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Spigot API**
 
-- 📫 How to reach me **http://andreiwasfound.ddns.net/discord**
+- 📫 You can reach me on **[my discord server](http://andreiwasfound.ddns.net/discord)**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreiwasfound&show_icons=true" alt="andreiwasfound" /> </p>
 
